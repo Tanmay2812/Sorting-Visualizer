@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.foot{
+  font-size: large;
+  font-weight: bold;
+  background-color: seagreen;
+  padding: auto;
+}
+
+a.social{
+  margin: 0, 1rem;
+  color: #282c34;
+  padding: auto;
+}
