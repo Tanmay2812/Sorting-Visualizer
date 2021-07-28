@@ -194,7 +194,7 @@ class Sorting extends Component {
                     <Navbar className="buttomNav" bg="danger" variant="dark">
                         <Container>
                             <p className="btmnav">&copy; Sorting Visualizer by TANMAY MALLICK
-                                <a href="https://github.com/Tanmay2812/Path-Finder" className="social"><FaGithub size='1.3em' color="" /></a></p>
+                                <a href="https://github.com/Tanmay2812/Sorting-Visualizer" className="social"><FaGithub size='1.3em' color="" /></a></p>
                         </Container>
                     </Navbar>
                 </div>
